@@ -1,0 +1,11 @@
+{
+  "name": "desafio1",
+  "version": "1.0.0",
+  "description": "Desafio Hiring coders #3",
+  "main": "index.js",
+  "scripts": {
+    "dev":"node ."
+  },
+  "author": "",
+  "license": "ISC"
+}
