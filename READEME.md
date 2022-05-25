@@ -26,7 +26,7 @@ R: ``<p id="demo">H</p>`` "O getElementById busca um elemento do DOM que tenha u
 
 Na linguagem JavaScript, ao invocar o método getElementsByClassName, do objeto document, será retornado:Esta pergunta é obrigatória *
 
-R: um Array "O getElementsByClassName busca todos os elementos do DOM que cotenham uma determinada classe, podendo encontrar mais de um elemento." 
+R: um Array "O getElementsByClassName busca todos os elementos do DOM que contenham uma determinada classe, podendo encontrar mais de um elemento." 
 
 ----
 
